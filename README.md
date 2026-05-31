@@ -1,6 +1,5 @@
 <!-- Header -->
 <h1 align="center">Hi, I'm Debarati 👋</h1>
-<h3 align="center">Software Developer · Data Analyst · Based in India · Open to Work</h3>
 
 <br>
 
